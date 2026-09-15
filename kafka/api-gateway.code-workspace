@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../api-gateway"
+		},
+		{
+			"path": "../trip-service"
+		},
+		{
+			"path": "../location-service"
+		},
+		{
+			"path": "../user-service"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../matching-service"
+		},
+		{
+			"path": "../redis"
+		},
+		{
+			"path": "../testing-folder"
+		},
+		{
+			"path": "../App"
+		}
+	]
+}
